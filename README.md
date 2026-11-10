@@ -9,4 +9,4 @@
 
 ## Herramientas
 
-> Desarrollo de aplicaiones mediante Android Studio (IDE), utilizando Kotlin como lenguaje principal. Focalizandonos en ejercicios para entender la estructura de un proyecto móvil, implementación de diseño y lógica.
+> Desarrollo de aplicaciones mediante Android Studio (IDE), utilizando Kotlin como lenguaje principal, focalizandonos en ejercicios para entender la estructura base de un proyecto móvil, implementación de diseño y lógica.
